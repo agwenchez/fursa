@@ -1,4 +1,4 @@
-# Food Finder App in React Native
+<!-- # Food Finder App in React Native
 
 This repository is based on my YouTube tutorial series where I'm creating a complete app UI by using different essential react native packages which is useful for creating any kind of app.
 
@@ -22,4 +22,4 @@ This repository is based on my YouTube tutorial series where I'm creating a comp
 - [Swipe To Delete in React Native](https://youtu.be/k-Ra0tdCEOc)
 - [React Native Social Share](https://youtu.be/vXzpEJeVmi8)
 - [App Home Screen UI with Vertical Image Slider](https://www.youtube.com/watch?v=GXe3EuVog9c)
-- [Animated Header in React Native](https://youtu.be/JqlYrpoExE8)
+- [Animated Header in React Native](https://youtu.be/JqlYrpoExE8) -->
