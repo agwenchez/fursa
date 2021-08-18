@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "964319098960",
+    "project_id": "fursa-2021",
+    "storage_bucket": "fursa-2021.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:964319098960:android:c04d29c150df2acb59f955",
+        "android_client_info": {
+          "package_name": "com.foodfinder"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "964319098960-3vj0d7hu74lqq0v6pq2c38qoashv28pl.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.foodfinder",
+            "certificate_hash": "b2b6904723ad62d43ad9a399aaaea469d542e4bb"
+          }
+        },
+        {
+          "client_id": "964319098960-thsmcnsgpu806pb12t43d6aaddg0109d.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAOdpn0R2jAnclq4iTSGirRaPDJF4_S-xQ"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "964319098960-thsmcnsgpu806pb12t43d6aaddg0109d.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
